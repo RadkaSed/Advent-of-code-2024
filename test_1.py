@@ -24,4 +24,4 @@ for i in range(len(list_1)):
     result = list_1[i] * count
     results.append(result)
     
-print(sum(results))
+print(sum(results)) 
